@@ -2,7 +2,7 @@ name: Update Rates
 
 on:
   schedule:
-    - cron: '0 */6 * * *'   # every 6 hours
+    - cron: '*/5 * * * *'
   workflow_dispatch: {}       # lets you trigger it manually from the Actions tab
 
 jobs:
