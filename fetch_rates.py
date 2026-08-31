@@ -25,7 +25,7 @@ def main():
     result = {
         "bank": "Commercial Bank",
         "currency": "USD",
-        "tt_buying": buying["value"]+99,
+        "tt_buying": buying["value"],
         "tt_selling": selling["value"],
         "as_of": buying["timestamp"],
         "fetched_at": int(datetime.datetime.now(datetime.timezone.utc).timestamp() * 1000),
