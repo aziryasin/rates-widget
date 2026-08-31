@@ -28,7 +28,7 @@ def main():
         "tt_buying": buying["value"],
         "tt_selling": selling["value"],
         "as_of": buying["timestamp"],
-        "fetched_at": int(datetime.datetime.utcnow().timestamp() * 1000),
+        "fetched_at": int(datetime.datetime.now(datetime.timezone.utc).timestamp() * 1000),
     }
     print(json.dumps(result, indent=2))
     return result
