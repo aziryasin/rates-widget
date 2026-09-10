@@ -2,7 +2,7 @@ name: Update Rates
 
 on:
   schedule:
-    - cron: '45 4 * * *'    # 10:15 AM LK time (UTC+5:30)
+    - cron: '15 0 * * *'    # scheduled for 00:15 UTC — compensating ~4.5h for observed GitHub queue delay, targeting actual fire near 10:15 AM LK (UTC+5:30)
   workflow_dispatch: {}       # lets you trigger it manually from the Actions tab
 
 jobs:
