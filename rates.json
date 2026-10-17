@@ -1,89 +1,89 @@
 {
-  "fetched_at": 1792125454226,
+  "fetched_at": 1792211653133,
   "banks": [
     {
       "bank": "Amana Bank",
       "currency": "USD",
-      "tt_buying": 328.75,
-      "tt_selling": 333.75,
-      "as_of": 1792125034000
+      "tt_buying": 328.8,
+      "tt_selling": 333.8,
+      "as_of": 1792211433000
     },
     {
       "bank": "Bank of Ceylon",
       "currency": "USD",
       "tt_buying": 326.7,
       "tt_selling": 335.7,
-      "as_of": 1792125081000
+      "as_of": 1792211480000
     },
     {
       "bank": "Commercial Bank",
       "currency": "USD",
       "tt_buying": 327.0,
       "tt_selling": 335.0,
-      "as_of": 1792125083000
+      "as_of": 1792211482000
     },
     {
       "bank": "DFCC Bank",
       "currency": "USD",
-      "tt_buying": 326.45,
-      "tt_selling": 335.95,
-      "as_of": 1792125100000
+      "tt_buying": 326.5,
+      "tt_selling": 336.0,
+      "as_of": 1792211499000
     },
     {
       "bank": "Hatton National Bank",
       "currency": "USD",
       "tt_buying": 327.5,
       "tt_selling": 334.75,
-      "as_of": 1792125138000
+      "as_of": 1792211537000
     },
     {
       "bank": "National Development Bank",
       "currency": "USD",
       "tt_buying": 326.6,
       "tt_selling": 335.6,
-      "as_of": 1792125159000
+      "as_of": 1792211558000
     },
     {
       "bank": "National Savings Bank",
       "currency": "USD",
       "tt_buying": 327.0,
       "tt_selling": 323.5,
-      "as_of": 1792125161000
+      "as_of": 1792211560000
     },
     {
       "bank": "Nations Trust Bank",
       "currency": "USD",
-      "tt_buying": 325.75,
-      "tt_selling": 336.75,
-      "as_of": 1792125165000
+      "tt_buying": 325.65,
+      "tt_selling": 336.65,
+      "as_of": 1792211564000
     },
     {
       "bank": "People's Bank",
       "currency": "USD",
-      "tt_buying": 327.3024,
-      "tt_selling": 334.9483,
-      "as_of": 1792125189000
+      "tt_buying": 327.3518,
+      "tt_selling": 334.9989,
+      "as_of": 1792211588000
     },
     {
       "bank": "Sampath Bank",
       "currency": "USD",
       "tt_buying": 327.0,
       "tt_selling": 335.0,
-      "as_of": 1792125213000
+      "as_of": 1792211612000
     },
     {
       "bank": "Seylan Bank",
       "currency": "USD",
       "tt_buying": 327.7,
       "tt_selling": 334.7,
-      "as_of": 1792125230000
+      "as_of": 1792211629000
     },
     {
       "bank": "Union Bank",
       "currency": "USD",
       "tt_buying": 327.0,
       "tt_selling": 335.0,
-      "as_of": 1792125247000
+      "as_of": 1792211646000
     }
   ]
 }
